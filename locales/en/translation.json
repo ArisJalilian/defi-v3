@@ -96,7 +96,9 @@
         "noTransaction": "There are no transactions",
         "noTransactionDesc": "Please make some transactions first.",
         "noPlatform": "There is no Platform",
-        "noPlatformDesc": "Please make some transactions on investment platforms first."
+        "noPlatformDesc": "Please make some transactions on investment platforms first.",
+        "invalidAddress": "Recipient address is not valid",
+        "requiredAddress": "Recipient address required for this pair"
     },
     "fiatOn": {
         "currencyLabel": "Select currency and payment method",
@@ -228,6 +230,8 @@
         "sell": "Sell",
         "convertTo": "Convert to {{ symbol }}"
     },
+    "or": "or",
+    "only": "Only",
     "more": "More",
     "totalAssets": "Total Assets",
     "totalDebts": "Total Debts",
