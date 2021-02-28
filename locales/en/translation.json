@@ -48,7 +48,6 @@
         "history": "History",
         "disconnect": "Disconnect wallet",
         "connect": "Connect"
-
     },
     "wallet": {
         "connect": "Connect to wallet",
@@ -98,7 +97,8 @@
         "noPlatform": "There is no Platform",
         "noPlatformDesc": "Please make some transactions on investment platforms first.",
         "invalidAddress": "Recipient address is not valid",
-        "requiredAddress": "Recipient address required for this pair"
+        "requiredAddress": "Recipient address required for this pair",
+        "signAccount": "Confirm your address to view your open orders. This step keeps your orders private."
     },
     "fiatOn": {
         "currencyLabel": "Select currency and payment method",
@@ -230,6 +230,7 @@
         "sell": "Sell",
         "convertTo": "Convert to {{ symbol }}"
     },
+    "confirm": "Confirm",
     "or": "or",
     "only": "Only",
     "more": "More",
