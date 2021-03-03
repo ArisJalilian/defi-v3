@@ -191,7 +191,9 @@
         "willPay": "You will Pay",
         "selectGasSetting": "Select Gas Setting",
         "creatingPool": "You are creating a pool",
-        "supply": "Supply"
+        "supply": "Supply",
+        "inDepositedTokens": "To Deposited Tokens",
+        "inCustomToken": "To selected ETH or ERC-20 token"
     },
     "tokensets": {
         "portfolios": "Portfolios",
@@ -290,6 +292,9 @@
     "error": "Error",
     "dismiss": "Dismiss",
     "seeMore": "See More",
+    "seeAllTransactions": "See all Transactions",
+    "pendingTransactions": "Pending Transactions",
+    "confirmedTransactions": "Confirmed Transactions",
     "showMore": "Show More",
     "invest": "Invest",
     "openOrders": "Open Orders",
