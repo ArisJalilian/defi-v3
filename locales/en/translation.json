@@ -23,6 +23,7 @@
         }
     },
     "menu": {
+        "menu": "Menu",
         "buy": "Buy",
         "crypto": "Crypto",
         "giftCards": "Gift Cards",
