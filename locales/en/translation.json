@@ -23,6 +23,7 @@
         }
     },
     "menu": {
+        "Account": "Account",
         "menu": "Menu",
         "buy": "Buy",
         "crypto": "Crypto",
@@ -99,7 +100,8 @@
         "noPlatformDesc": "Please make some transactions on investment platforms first.",
         "invalidAddress": "Recipient address is not valid",
         "requiredAddress": "Recipient address required for this pair",
-        "signAccount": "Confirm your address to view your open orders. This step keeps your orders private."
+        "signAccount": "Confirm your address to view your open orders. This step keeps your orders private.",
+        "selectAAccount": "Please select a account to connect, otherwise connector will use your default address"
     },
     "fiatOn": {
         "currencyLabel": "Select currency and payment method",
