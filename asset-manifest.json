@@ -17,8 +17,8 @@
     "static/js/6.2f792212.chunk.js": "/defi-v3/static/js/6.2f792212.chunk.js",
     "static/js/6.2f792212.chunk.js.map": "/defi-v3/static/js/6.2f792212.chunk.js.map",
     "main.css": "/defi-v3/static/css/main.dafbb6cb.chunk.css",
-    "main.js": "/defi-v3/static/js/main.d500455d.chunk.js",
-    "main.js.map": "/defi-v3/static/js/main.d500455d.chunk.js.map",
+    "main.js": "/defi-v3/static/js/main.ef82aa60.chunk.js",
+    "main.js.map": "/defi-v3/static/js/main.ef82aa60.chunk.js.map",
     "runtime-main.js": "/defi-v3/static/js/runtime-main.3d865a18.js",
     "runtime-main.js.map": "/defi-v3/static/js/runtime-main.3d865a18.js.map",
     "static/css/9.d0a29f05.chunk.css": "/defi-v3/static/css/9.d0a29f05.chunk.css",
@@ -232,6 +232,6 @@
     "static/css/9.d0a29f05.chunk.css",
     "static/js/9.f923ca97.chunk.js",
     "static/css/main.dafbb6cb.chunk.css",
-    "static/js/main.d500455d.chunk.js"
+    "static/js/main.ef82aa60.chunk.js"
   ]
 }
