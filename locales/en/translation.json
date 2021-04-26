@@ -27,7 +27,7 @@
         "menu": "Menu",
         "buy": "Buy",
         "crypto": "Crypto",
-        "giftCards": "Gift Cards",
+        "giftCards": "Gift Cards & more",
         "swap": "Swap",
         "aggregator": "Aggregator",
         "uniswap": "Uniswap",
@@ -50,7 +50,11 @@
         "history": "History",
         "disconnect": "Disconnect wallet",
         "connect": "Connect",
-        "launchpad": "Launchpad"
+        "launchpad": "Launchpad",
+        "cross": "Cross",
+        "bridges": "Bridges",
+        "anySwap": "AnySwap",
+        "crossBalance": "Balance"
     },
     "wallet": {
         "connect": "Connect to wallet",
@@ -103,6 +107,14 @@
         "requiredAddress": "Recipient address required for this pair",
         "signAccount": "Confirm your address to view your open orders. This step keeps your orders private.",
         "selectAAccount": "Please select a account to connect, otherwise connector will use your default address"
+    },
+    "cross": {
+        "action": "Action",
+        "totalBalance": "Total Balance",
+        "liquidity": "Liquidity",
+        "balance": "Balance",
+        "price": "Price",
+        "coin": "Coin"
     },
     "fiatOn": {
         "currencyLabel": "Select currency and payment method",
