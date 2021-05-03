@@ -258,6 +258,7 @@
         "sell": "Sell",
         "convertTo": "Convert to {{ symbol }}"
     },
+    "ConfirmTransaction": "Confirm Transaction",
     "confirm": "Confirm",
     "or": "or",
     "only": "Only",
